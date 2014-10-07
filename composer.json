@@ -1,0 +1,8 @@
+{
+    "name": "kinok/ldap-php-wrapper",
+    "description": "Ldap php wrapper",
+    "autoload": {
+        "psr-4": { "LdapWrapper\\": "" }
+    }
+
+}
